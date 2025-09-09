@@ -149,9 +149,9 @@ docker volume create postgres-config
 - `-c shared_buffers=256MB`: กำหนด shared buffers
 
 **บันทึกผลการทดลอง - Step 3:**
-```
-ใส่ Screenshot ของผลการรัน docker run ที่นี่
-```
+
+![alt text](image-6.png)
+![alt text](image-7.png)
 
 ### Step 4: Verify Container Status and Resource Usage
 
