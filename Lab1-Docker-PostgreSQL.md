@@ -261,12 +261,16 @@ WHERE datname = 'lab_db';
 ```
 
 **บันทึกผลการทดลอง - Step 6:**
-```
 ใส่ Screenshot ของ:
-1. ผลการสร้าง lab_db
-2. ผลการรัน \l+ แสดงฐานข้อมูลทั้งหมด
-3. ผลการ query ข้อมูลฐานข้อมูล
-```
+- **1. ผลการสร้าง lab_db**
+
+![alt text](image-15.png)
+- **2. ผลการรัน \l+ แสดงฐานข้อมูลทั้งหมด**
+
+![alt text](image-16.png)
+- **3. ผลการ query ข้อมูลฐานข้อมูล**
+
+![alt text](image-17.png)
 
 ### Step 7: User และ Role Management
 
